@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This website is dedicated to the research we do on planet formation at the [Astronomy Unit](https://www.qmul.ac.uk/spcs/astro/) at [Queen Mary, University of London](https://www.qmul.ac.uk/). In particular, my group focuses on the evolution of solids in protoplanetary discs, from micron-sized dust particles all the way up to full-sized planets.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Planets form in discs of gas and dust around young stars. Within these disc, solid particles have to grow 14 orders of magnitude in size to become a terrestrial or even gas giant planet. This road is full up potential pitfalls: disruptive collisions, radial drift, planet migration, to name a few. We employ numerical simulations, in particular numerical hydrodynamics, to study in detail how the various growth stages may proceed.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This research is made possible by [STFC](https://www.ukri.org/councils/stfc/), and, starting from 2022, by the [ERC](https://erc.europa.eu/) though an [Advanced Grant](https://erc.europa.eu/news/erc-2021-advanced-grants-results). This project, DUSTSPEC, revolves around the question how the *dust size distribution* evolves and even governs the dynamical processes that will eventually result in planets. We will also look into what can be learned from ALMA images.
 
-
-[jekyll-organization]: https://github.com/jekyll
+<p style="text-align:center;"><img src="/assets/img/erc_qmul_stfc.jpg" alt="ercstfc" width="400"/></p>
